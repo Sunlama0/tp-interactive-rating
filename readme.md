@@ -1,4 +1,4 @@
-# ⭐ Composant de Notation Interactive
+# Composant de Notation Interactive
 
 ## 📌 Description
 
